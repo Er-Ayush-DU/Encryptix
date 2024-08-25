@@ -1,0 +1,29 @@
+*{
+  margin:0; padding: 0;
+}
+
+.container h3{
+  width: 100%;
+}
+
+.upper{
+  background-color: rgba(129, 185, 240, 0.864);
+height: 300px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+.info p{
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.image img{
+  border-radius: 150px;
+
+}
+
+.about p{
+  color:rgb(104, 104, 104)
+}
